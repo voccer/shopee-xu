@@ -1,0 +1,1848 @@
+[00:08(09)] [info] browser is not created
+[00:08(09)] [warn] init browser
+[00:08(09)] [info] browser is created
+[00:08(09)] [info] isSuccess:: false
+[00:13(09)] [info] browser is not created
+[00:13(09)] [warn] init browser
+[00:13(09)] [info] browser is created
+[00:13(09)] [info] username:: (+84) 335168790, isSuccess:: true
+[00:14(09)] [info] browser is not created
+[00:14(09)] [warn] init browser
+[00:14(09)] [info] browser is created
+[00:14(09)] [info] username:: (+84) 335168790, isSuccess:: false
+[00:14(09)] [warn] destroy browser
+[00:14(09)] [info] close all pages
+[00:14(09)] [warn] browser is crashed
+[00:14(09)] [warn] recreated browser
+[00:14(09)] [warn] init browser
+[00:14(09)] [info] browser's pages are closed
+[00:14(09)] [info] browser is not created
+[00:14(09)] [info] browser is locked, wait for unlock
+[00:14(09)] [info] browser is created
+[00:15(09)] [info] username:: (+84) 369812507, isSuccess:: false
+[00:15(09)] [warn] destroy browser
+[00:15(09)] [info] close all pages
+[00:15(09)] [info] browser is not created
+[00:15(09)] [warn] init browser
+[00:15(09)] [info] browser is created
+[00:16(09)] [info] username:: (+84) 335168790, isSuccess:: false
+[00:16(09)] [warn] destroy browser
+[00:16(09)] [info] close all pages
+[00:16(09)] [warn] browser is crashed
+[00:16(09)] [warn] recreated browser
+[00:16(09)] [warn] init browser
+[00:16(09)] [info] browser's pages are closed
+[00:16(09)] [info] browser is not created
+[00:16(09)] [info] browser is locked, wait for unlock
+[00:16(09)] [info] browser is created
+[00:16(09)] [info] username:: (+84) 369812507, isSuccess:: true
+[00:16(09)] [warn] destroy browser
+[00:16(09)] [info] close all pages
+[00:16(09)] [warn] browser is crashed
+[00:34(09)] [info] browser is not created
+[00:34(09)] [warn] init browser
+[00:34(09)] [info] browser is created
+[00:34(09)] [info] username:: (+84) 335168790, isSuccess:: false
+[00:34(09)] [warn] destroy browser
+[00:34(09)] [info] close all pages
+[00:34(09)] [warn] browser is crashed
+[00:34(09)] [warn] recreated browser
+[00:34(09)] [warn] init browser
+[00:34(09)] [info] browser's pages are closed
+[00:34(09)] [info] browser is not created
+[00:34(09)] [info] browser is locked, wait for unlock
+[00:34(09)] [info] browser is created
+[00:35(09)] [info] username:: (+84) 369812507, isSuccess:: false
+[00:35(09)] [warn] destroy browser
+[00:35(09)] [info] close all pages
+[00:35(09)] [warn] browser is crashed
+[00:41(09)] [info] browser is not created
+[00:41(09)] [warn] init browser
+[00:41(09)] [info] browser is created
+[00:42(09)] [info] username:: (+84) 335168790, isSuccess:: false
+[00:42(09)] [warn] destroy browser
+[00:42(09)] [info] close all pages
+[00:42(09)] [warn] browser is crashed
+[00:42(09)] [warn] recreated browser
+[00:42(09)] [warn] init browser
+[00:42(09)] [info] browser's pages are closed
+[00:42(09)] [info] browser is not created
+[00:42(09)] [info] browser is locked, wait for unlock
+[00:42(09)] [info] browser is created
+[00:42(09)] [info] username:: (+84) 369812507, isSuccess:: false
+[00:42(09)] [warn] destroy browser
+[00:42(09)] [info] close all pages
+[00:42(09)] [warn] browser is crashed
+[16:01(10)] [info] browser is not created
+[16:01(10)] [warn] init browser
+[16:01(10)] [info] browser is created
+[16:02(10)] [info] username:: (+84) 335168790, isSuccess:: true
+[16:02(10)] [warn] destroy browser
+[16:02(10)] [info] close all pages
+[16:02(10)] [warn] browser is crashed
+[16:02(10)] [warn] recreated browser
+[16:02(10)] [warn] init browser
+[16:02(10)] [info] browser's pages are closed
+[16:02(10)] [info] browser is not created
+[16:02(10)] [info] browser is locked, wait for unlock
+[16:02(10)] [info] browser is created
+[16:02(10)] [info] username:: (+84) 369812507, isSuccess:: false
+[16:02(10)] [warn] destroy browser
+[16:02(10)] [info] close all pages
+[16:02(10)] [warn] browser is crashed
+[21:08(10)] [info] browser is not created
+[21:08(10)] [warn] init browser
+[21:08(10)] [info] browser is created
+[21:09(10)] [info] username:: (+84) 335168790, isSuccess:: false
+[21:09(10)] [warn] destroy browser
+[21:09(10)] [info] close all pages
+[21:09(10)] [warn] browser is crashed
+[21:09(10)] [warn] recreated browser
+[21:09(10)] [warn] init browser
+[21:09(10)] [info] browser's pages are closed
+[21:09(10)] [info] browser is not created
+[21:09(10)] [info] browser is locked, wait for unlock
+[21:09(10)] [info] browser is created
+[21:09(10)] [info] username:: (+84) 369812507, isSuccess:: false
+[21:09(10)] [warn] destroy browser
+[21:09(10)] [info] close all pages
+[21:09(10)] [warn] browser is crashed
+[11:23(11)] [info] browser is not created
+[11:23(11)] [warn] init browser
+[11:23(11)] [info] browser is created
+[11:23(11)] [info] username:: (+84) 335168790, isSuccess:: true
+[11:23(11)] [warn] destroy browser
+[11:23(11)] [info] close all pages
+[11:23(11)] [warn] browser is crashed
+[11:23(11)] [warn] recreated browser
+[11:23(11)] [warn] init browser
+[11:23(11)] [info] browser's pages are closed
+[11:23(11)] [info] browser is not created
+[11:23(11)] [info] browser is locked, wait for unlock
+[11:23(11)] [info] browser is created
+[11:24(11)] [info] username:: (+84) 369812507, isSuccess:: false
+[11:24(11)] [warn] destroy browser
+[11:24(11)] [info] close all pages
+[11:24(11)] [warn] browser is crashed
+[20:04(11)] [info] browser is not created
+[20:04(11)] [warn] init browser
+[20:04(11)] [info] browser is created
+[20:04(11)] [info] username:: (+84) 335168790, isSuccess:: false
+[20:04(11)] [warn] destroy browser
+[20:04(11)] [info] close all pages
+[20:04(11)] [warn] browser is crashed
+[20:04(11)] [warn] recreated browser
+[20:04(11)] [warn] init browser
+[20:04(11)] [info] browser's pages are closed
+[20:04(11)] [info] browser is not created
+[20:04(11)] [info] browser is locked, wait for unlock
+[20:04(11)] [info] browser is created
+[20:04(11)] [info] username:: (+84) 369812507, isSuccess:: false
+[20:04(11)] [warn] destroy browser
+[20:04(11)] [info] close all pages
+[20:04(11)] [warn] browser is crashed
+[19:56(12)] [info] browser is not created
+[19:56(12)] [warn] init browser
+[19:56(12)] [info] browser is created
+[19:56(12)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:56(12)] [warn] destroy browser
+[19:56(12)] [info] close all pages
+[19:56(12)] [warn] browser is crashed
+[19:56(12)] [warn] recreated browser
+[19:56(12)] [warn] init browser
+[19:56(12)] [info] browser's pages are closed
+[19:56(12)] [info] browser is not created
+[19:56(12)] [info] browser is locked, wait for unlock
+[19:56(12)] [info] browser is created
+[19:56(12)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:56(12)] [warn] destroy browser
+[19:56(12)] [info] close all pages
+[19:56(12)] [warn] browser is crashed
+[22:33(12)] [info] browser is not created
+[22:33(12)] [warn] init browser
+[22:33(12)] [info] browser is created
+[22:33(12)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:33(12)] [warn] destroy browser
+[22:33(12)] [info] close all pages
+[22:33(12)] [warn] browser is crashed
+[22:33(12)] [warn] recreated browser
+[22:33(12)] [warn] init browser
+[22:33(12)] [info] browser's pages are closed
+[22:33(12)] [info] browser is not created
+[22:33(12)] [info] browser is locked, wait for unlock
+[22:33(12)] [info] browser is created
+[22:34(12)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:34(12)] [warn] destroy browser
+[22:34(12)] [info] close all pages
+[22:34(12)] [warn] browser is crashed
+[20:17(13)] [info] browser is not created
+[20:17(13)] [warn] init browser
+[20:17(13)] [info] browser is created
+[20:17(13)] [info] username:: (+84) 335168790, isSuccess:: true
+[20:17(13)] [warn] destroy browser
+[20:17(13)] [info] close all pages
+[20:17(13)] [warn] browser is crashed
+[20:17(13)] [warn] recreated browser
+[20:17(13)] [warn] init browser
+[20:17(13)] [info] browser's pages are closed
+[20:17(13)] [info] browser is not created
+[20:17(13)] [info] browser is locked, wait for unlock
+[20:17(13)] [info] browser is created
+[20:18(13)] [info] username:: (+84) 369812507, isSuccess:: false
+[20:18(13)] [warn] destroy browser
+[20:18(13)] [info] close all pages
+[20:18(13)] [warn] browser is crashed
+[23:16(14)] [info] browser is not created
+[23:16(14)] [warn] init browser
+[23:16(14)] [info] browser is created
+[23:16(14)] [info] username:: (+84) 335168790, isSuccess:: true
+[23:16(14)] [warn] destroy browser
+[23:16(14)] [info] close all pages
+[23:16(14)] [warn] browser is crashed
+[23:16(14)] [warn] recreated browser
+[23:16(14)] [warn] init browser
+[23:16(14)] [info] browser's pages are closed
+[23:16(14)] [info] browser is not created
+[23:16(14)] [info] browser is locked, wait for unlock
+[23:16(14)] [info] browser is created
+[23:16(14)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:16(14)] [warn] destroy browser
+[23:16(14)] [info] close all pages
+[23:16(14)] [warn] browser is crashed
+[19:59(15)] [info] browser is not created
+[19:59(15)] [warn] init browser
+[19:59(15)] [info] browser is created
+[20:00(15)] [info] username:: (+84) 335168790, isSuccess:: true
+[20:00(15)] [warn] destroy browser
+[20:00(15)] [info] close all pages
+[20:00(15)] [warn] browser is crashed
+[20:00(15)] [warn] recreated browser
+[20:00(15)] [warn] init browser
+[20:00(15)] [info] browser's pages are closed
+[20:00(15)] [info] browser is not created
+[20:00(15)] [info] browser is locked, wait for unlock
+[20:00(15)] [info] browser is created
+[20:00(15)] [info] username:: (+84) 369812507, isSuccess:: false
+[20:00(15)] [warn] destroy browser
+[20:00(15)] [info] close all pages
+[20:00(15)] [warn] browser is crashed
+[22:50(15)] [info] browser is not created
+[22:50(15)] [warn] init browser
+[22:50(15)] [info] browser is created
+[22:50(15)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:50(15)] [warn] destroy browser
+[22:50(15)] [info] close all pages
+[22:50(15)] [warn] browser is crashed
+[22:50(15)] [warn] recreated browser
+[22:50(15)] [warn] init browser
+[22:50(15)] [info] browser's pages are closed
+[22:50(15)] [info] browser is not created
+[22:50(15)] [info] browser is locked, wait for unlock
+[22:50(15)] [info] browser is created
+[22:50(15)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:50(15)] [warn] destroy browser
+[22:50(15)] [info] close all pages
+[22:50(15)] [warn] browser is crashed
+[21:14(17)] [info] browser is not created
+[21:14(17)] [warn] init browser
+[21:14(17)] [info] browser is created
+[21:14(17)] [info] username:: (+84) 335168790, isSuccess:: true
+[21:14(17)] [warn] destroy browser
+[21:14(17)] [info] close all pages
+[21:14(17)] [warn] browser is crashed
+[21:14(17)] [warn] recreated browser
+[21:14(17)] [warn] init browser
+[21:14(17)] [info] browser's pages are closed
+[21:14(17)] [info] browser is not created
+[21:14(17)] [info] browser is locked, wait for unlock
+[21:14(17)] [info] browser is created
+[21:14(17)] [info] username:: (+84) 369812507, isSuccess:: true
+[21:14(17)] [warn] destroy browser
+[21:14(17)] [info] close all pages
+[12:08(18)] [info] browser is not created
+[12:08(18)] [warn] init browser
+[12:08(18)] [info] browser is created
+[12:08(18)] [info] username:: (+84) 335168790, isSuccess:: true
+[12:08(18)] [warn] destroy browser
+[12:08(18)] [info] close all pages
+[12:08(18)] [warn] browser is crashed
+[12:08(18)] [warn] recreated browser
+[12:08(18)] [warn] init browser
+[12:08(18)] [info] browser's pages are closed
+[12:08(18)] [info] browser is not created
+[12:08(18)] [info] browser is locked, wait for unlock
+[12:08(18)] [info] browser is created
+[12:09(18)] [info] username:: (+84) 369812507, isSuccess:: true
+[12:09(18)] [warn] destroy browser
+[12:09(18)] [info] close all pages
+[12:09(18)] [warn] browser is crashed
+[15:47(18)] [info] browser is not created
+[15:47(18)] [warn] init browser
+[15:47(18)] [info] browser is created
+[15:48(18)] [info] username:: (+84) 335168790, isSuccess:: false
+[15:48(18)] [warn] destroy browser
+[15:48(18)] [info] close all pages
+[15:48(18)] [warn] browser is crashed
+[15:48(18)] [warn] recreated browser
+[15:48(18)] [warn] init browser
+[15:48(18)] [info] browser's pages are closed
+[15:48(18)] [info] browser is not created
+[15:48(18)] [info] browser is locked, wait for unlock
+[15:48(18)] [info] browser is created
+[15:48(18)] [info] username:: (+84) 369812507, isSuccess:: false
+[15:48(18)] [warn] destroy browser
+[15:48(18)] [info] close all pages
+[15:48(18)] [warn] browser is crashed
+[19:27(19)] [info] browser is not created
+[19:27(19)] [warn] init browser
+[19:27(19)] [info] browser is created
+[19:27(19)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:27(19)] [warn] destroy browser
+[19:27(19)] [info] close all pages
+[19:27(19)] [warn] browser is crashed
+[19:27(19)] [warn] recreated browser
+[19:27(19)] [warn] init browser
+[19:27(19)] [info] browser's pages are closed
+[19:27(19)] [info] browser is not created
+[19:27(19)] [info] browser is locked, wait for unlock
+[19:27(19)] [info] browser is created
+[19:27(19)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:27(19)] [warn] destroy browser
+[19:27(19)] [info] close all pages
+[19:27(19)] [warn] browser is crashed
+[20:48(20)] [info] browser is not created
+[20:48(20)] [warn] init browser
+[20:48(20)] [info] browser is created
+[20:48(20)] [info] username:: (+84) 335168790, isSuccess:: true
+[20:48(20)] [warn] destroy browser
+[20:48(20)] [info] close all pages
+[20:48(20)] [warn] browser is crashed
+[20:48(20)] [warn] recreated browser
+[20:48(20)] [warn] init browser
+[20:48(20)] [info] browser's pages are closed
+[20:48(20)] [info] browser is not created
+[20:48(20)] [info] browser is locked, wait for unlock
+[20:48(20)] [info] browser is created
+[20:48(20)] [info] username:: (+84) 369812507, isSuccess:: true
+[20:48(20)] [warn] destroy browser
+[20:48(20)] [info] close all pages
+[20:48(20)] [warn] browser is crashed
+[19:40(21)] [info] browser is not created
+[19:40(21)] [warn] init browser
+[19:40(21)] [info] browser is created
+[19:40(21)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:40(21)] [warn] destroy browser
+[19:40(21)] [info] close all pages
+[19:40(21)] [warn] browser is crashed
+[19:40(21)] [warn] recreated browser
+[19:40(21)] [warn] init browser
+[19:40(21)] [info] browser's pages are closed
+[19:40(21)] [info] browser is not created
+[19:40(21)] [info] browser is locked, wait for unlock
+[19:40(21)] [info] browser is created
+[19:40(21)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:40(21)] [warn] destroy browser
+[19:40(21)] [info] close all pages
+[19:40(21)] [warn] browser is crashed
+[19:03(22)] [info] browser is not created
+[19:03(22)] [warn] init browser
+[19:03(22)] [info] browser is created
+[19:03(22)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:03(22)] [warn] destroy browser
+[19:03(22)] [info] close all pages
+[19:03(22)] [warn] browser is crashed
+[19:03(22)] [warn] recreated browser
+[19:03(22)] [warn] init browser
+[19:03(22)] [info] browser's pages are closed
+[19:03(22)] [info] browser is not created
+[19:03(22)] [info] browser is locked, wait for unlock
+[19:03(22)] [info] browser is created
+[19:04(22)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:04(22)] [warn] destroy browser
+[19:04(22)] [info] close all pages
+[19:04(22)] [warn] browser is crashed
+[21:45(22)] [info] browser is not created
+[21:45(22)] [warn] init browser
+[21:45(22)] [info] browser is created
+[21:45(22)] [info] username:: (+84) 335168790, isSuccess:: false
+[21:45(22)] [warn] destroy browser
+[21:45(22)] [info] close all pages
+[21:45(22)] [warn] browser is crashed
+[21:45(22)] [warn] recreated browser
+[21:45(22)] [warn] init browser
+[21:45(22)] [info] browser's pages are closed
+[21:45(22)] [info] browser is not created
+[21:45(22)] [info] browser is locked, wait for unlock
+[21:45(22)] [info] browser is created
+[21:45(22)] [info] username:: (+84) 369812507, isSuccess:: false
+[21:45(22)] [warn] destroy browser
+[21:45(22)] [info] close all pages
+[21:45(22)] [warn] browser is crashed
+[18:50(23)] [info] browser is not created
+[18:50(23)] [warn] init browser
+[18:50(23)] [info] browser is created
+[18:50(23)] [info] username:: (+84) 335168790, isSuccess:: true
+[18:50(23)] [warn] destroy browser
+[18:50(23)] [info] close all pages
+[18:50(23)] [warn] browser is crashed
+[18:50(23)] [warn] recreated browser
+[18:50(23)] [warn] init browser
+[18:50(23)] [info] browser's pages are closed
+[18:50(23)] [info] browser is not created
+[18:50(23)] [info] browser is locked, wait for unlock
+[18:50(23)] [info] browser is created
+[18:50(23)] [info] username:: (+84) 369812507, isSuccess:: true
+[18:50(23)] [warn] destroy browser
+[18:50(23)] [info] close all pages
+[18:50(23)] [warn] browser is crashed
+[22:24(23)] [info] browser is not created
+[22:24(23)] [warn] init browser
+[22:24(23)] [info] browser is created
+[22:24(23)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:24(23)] [warn] destroy browser
+[22:24(23)] [info] close all pages
+[22:24(23)] [warn] browser is crashed
+[22:24(23)] [warn] recreated browser
+[22:24(23)] [warn] init browser
+[22:24(23)] [info] browser's pages are closed
+[22:24(23)] [info] browser is not created
+[22:24(23)] [info] browser is locked, wait for unlock
+[22:24(23)] [info] browser is created
+[22:24(23)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:24(23)] [warn] destroy browser
+[22:24(23)] [info] close all pages
+[22:24(23)] [warn] browser is crashed
+[12:47(24)] [info] browser is not created
+[12:47(24)] [warn] init browser
+[12:47(24)] [info] browser is created
+[12:47(24)] [info] username:: (+84) 335168790, isSuccess:: true
+[12:47(24)] [warn] destroy browser
+[12:47(24)] [info] close all pages
+[12:47(24)] [warn] browser is crashed
+[12:47(24)] [warn] recreated browser
+[12:47(24)] [warn] init browser
+[12:47(24)] [info] browser's pages are closed
+[12:47(24)] [info] browser is not created
+[12:47(24)] [info] browser is locked, wait for unlock
+[12:47(24)] [info] browser is created
+[12:48(24)] [info] username:: (+84) 369812507, isSuccess:: true
+[12:48(24)] [warn] destroy browser
+[12:48(24)] [info] close all pages
+[12:48(24)] [warn] browser is crashed
+[18:24(24)] [info] browser is not created
+[18:24(24)] [warn] init browser
+[18:24(24)] [info] browser is created
+[18:24(24)] [info] username:: (+84) 335168790, isSuccess:: false
+[18:24(24)] [warn] destroy browser
+[18:24(24)] [info] close all pages
+[18:25(24)] [warn] browser is crashed
+[18:25(24)] [warn] recreated browser
+[18:25(24)] [warn] init browser
+[18:25(24)] [info] browser's pages are closed
+[18:25(24)] [info] browser is not created
+[18:25(24)] [info] browser is locked, wait for unlock
+[18:25(24)] [info] browser is created
+[18:25(24)] [info] username:: (+84) 369812507, isSuccess:: false
+[18:25(24)] [warn] destroy browser
+[18:25(24)] [info] close all pages
+[18:25(24)] [warn] browser is crashed
+[21:11(24)] [info] browser is not created
+[21:11(24)] [warn] init browser
+[21:11(24)] [info] browser is created
+[21:11(24)] [info] username:: (+84) 335168790, isSuccess:: false
+[21:11(24)] [warn] destroy browser
+[21:11(24)] [info] close all pages
+[21:11(24)] [warn] browser is crashed
+[21:11(24)] [warn] recreated browser
+[21:11(24)] [warn] init browser
+[21:11(24)] [info] browser's pages are closed
+[21:11(24)] [info] browser is not created
+[21:11(24)] [info] browser is locked, wait for unlock
+[21:11(24)] [info] browser is created
+[21:11(24)] [info] username:: (+84) 369812507, isSuccess:: false
+[21:11(24)] [warn] destroy browser
+[21:11(24)] [info] close all pages
+[21:11(24)] [warn] browser is crashed
+[23:17(24)] [info] browser is not created
+[23:17(24)] [warn] init browser
+[23:17(24)] [info] browser is created
+[23:18(24)] [info] username:: (+84) 335168790, isSuccess:: false
+[23:18(24)] [warn] destroy browser
+[23:18(24)] [info] close all pages
+[23:18(24)] [warn] browser is crashed
+[23:18(24)] [warn] recreated browser
+[23:18(24)] [warn] init browser
+[23:18(24)] [info] browser's pages are closed
+[23:18(24)] [info] browser is not created
+[23:18(24)] [info] browser is locked, wait for unlock
+[23:18(24)] [info] browser is created
+[23:18(24)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:18(24)] [warn] destroy browser
+[23:18(24)] [info] close all pages
+[23:18(24)] [warn] browser is crashed
+[12:02(25)] [info] browser is not created
+[12:02(25)] [warn] init browser
+[12:02(25)] [info] browser is created
+[12:02(25)] [info] username:: (+84) 335168790, isSuccess:: true
+[12:02(25)] [warn] destroy browser
+[12:02(25)] [info] close all pages
+[12:02(25)] [warn] browser is crashed
+[12:02(25)] [warn] recreated browser
+[12:02(25)] [warn] init browser
+[12:02(25)] [info] browser's pages are closed
+[12:02(25)] [info] browser is not created
+[12:02(25)] [info] browser is locked, wait for unlock
+[12:02(25)] [info] browser is created
+[12:02(25)] [info] username:: (+84) 369812507, isSuccess:: true
+[12:02(25)] [warn] destroy browser
+[12:02(25)] [info] close all pages
+[23:10(25)] [info] browser is not created
+[23:10(25)] [warn] init browser
+[23:10(25)] [info] browser is created
+[23:10(25)] [info] username:: (+84) 335168790, isSuccess:: false
+[23:10(25)] [warn] destroy browser
+[23:10(25)] [info] close all pages
+[23:10(25)] [warn] browser is crashed
+[23:10(25)] [warn] recreated browser
+[23:10(25)] [warn] init browser
+[23:10(25)] [info] browser's pages are closed
+[23:10(25)] [info] browser is not created
+[23:10(25)] [info] browser is locked, wait for unlock
+[23:10(25)] [info] browser is created
+[23:10(25)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:10(25)] [warn] destroy browser
+[23:10(25)] [info] close all pages
+[23:10(25)] [warn] browser is crashed
+[20:09(26)] [info] browser is not created
+[20:09(26)] [warn] init browser
+[20:09(26)] [info] browser is created
+[20:09(26)] [info] username:: (+84) 335168790, isSuccess:: true
+[20:09(26)] [warn] destroy browser
+[20:09(26)] [info] close all pages
+[20:09(26)] [warn] browser is crashed
+[20:09(26)] [warn] recreated browser
+[20:09(26)] [warn] init browser
+[20:09(26)] [info] browser's pages are closed
+[20:09(26)] [info] browser is not created
+[20:09(26)] [info] browser is locked, wait for unlock
+[20:09(26)] [info] browser is created
+[20:10(26)] [info] username:: (+84) 369812507, isSuccess:: true
+[20:10(26)] [warn] destroy browser
+[20:10(26)] [info] close all pages
+[20:10(26)] [warn] browser is crashed
+[20:49(26)] [info] browser is not created
+[20:49(26)] [warn] init browser
+[20:49(26)] [info] browser is created
+[20:50(26)] [info] username:: (+84) 335168790, isSuccess:: false
+[20:50(26)] [warn] destroy browser
+[20:50(26)] [info] close all pages
+[20:50(26)] [warn] browser is crashed
+[20:50(26)] [warn] recreated browser
+[20:50(26)] [warn] init browser
+[20:50(26)] [info] browser's pages are closed
+[20:50(26)] [info] browser is not created
+[20:50(26)] [info] browser is locked, wait for unlock
+[20:50(26)] [info] browser is created
+[20:50(26)] [info] username:: (+84) 369812507, isSuccess:: false
+[20:50(26)] [warn] destroy browser
+[20:50(26)] [info] close all pages
+[20:50(26)] [warn] browser is crashed
+[19:39(28)] [info] browser is not created
+[19:39(28)] [warn] init browser
+[19:39(28)] [info] browser is created
+[19:39(28)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:39(28)] [warn] destroy browser
+[19:39(28)] [info] close all pages
+[19:39(28)] [warn] browser is crashed
+[19:39(28)] [warn] recreated browser
+[19:39(28)] [warn] init browser
+[19:39(28)] [info] browser's pages are closed
+[19:39(28)] [info] browser is not created
+[19:39(28)] [info] browser is locked, wait for unlock
+[19:39(28)] [info] browser is created
+[19:40(28)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:40(28)] [warn] destroy browser
+[19:40(28)] [info] close all pages
+[19:40(28)] [warn] browser is crashed
+[22:14(28)] [info] browser is not created
+[22:14(28)] [warn] init browser
+[22:14(28)] [info] browser is created
+[22:14(28)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:14(28)] [warn] destroy browser
+[22:14(28)] [info] close all pages
+[22:14(28)] [warn] browser is crashed
+[22:14(28)] [warn] recreated browser
+[22:14(28)] [warn] init browser
+[22:14(28)] [info] browser's pages are closed
+[22:14(28)] [info] browser is not created
+[22:14(28)] [info] browser is locked, wait for unlock
+[22:14(28)] [info] browser is created
+[22:14(28)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:14(28)] [warn] destroy browser
+[22:14(28)] [info] close all pages
+[22:14(28)] [warn] browser is crashed
+[21:57(29)] [info] browser is not created
+[21:57(29)] [warn] init browser
+[21:57(29)] [info] browser is created
+[17:29(31)] [info] browser is not created
+[17:29(31)] [warn] init browser
+[17:29(31)] [info] browser is created
+[17:29(31)] [info] username:: (+84) 335168790, isSuccess:: true
+[17:29(31)] [warn] destroy browser
+[17:29(31)] [info] close all pages
+[17:29(31)] [warn] browser is crashed
+[17:29(31)] [warn] recreated browser
+[17:29(31)] [warn] init browser
+[17:29(31)] [info] browser's pages are closed
+[17:29(31)] [info] browser is not created
+[17:29(31)] [info] browser is locked, wait for unlock
+[17:29(31)] [info] browser is created
+[17:29(31)] [info] username:: (+84) 369812507, isSuccess:: true
+[17:29(31)] [warn] destroy browser
+[17:29(31)] [info] close all pages
+[17:29(31)] [warn] browser is crashed
+[13:26(01)] [info] browser is not created
+[13:26(01)] [warn] init browser
+[13:26(01)] [info] browser is created
+[13:26(01)] [info] username:: (+84) 335168790, isSuccess:: true
+[13:26(01)] [warn] destroy browser
+[13:26(01)] [info] close all pages
+[13:26(01)] [warn] browser is crashed
+[13:26(01)] [warn] recreated browser
+[13:26(01)] [warn] init browser
+[13:26(01)] [info] browser's pages are closed
+[13:26(01)] [info] browser is not created
+[13:26(01)] [info] browser is locked, wait for unlock
+[13:26(01)] [info] browser is created
+[13:27(01)] [info] username:: (+84) 369812507, isSuccess:: true
+[13:27(01)] [warn] destroy browser
+[13:27(01)] [info] close all pages
+[13:27(01)] [warn] browser is crashed
+[16:49(01)] [info] browser is not created
+[16:49(01)] [warn] init browser
+[16:49(01)] [info] browser is created
+[16:49(01)] [info] username:: (+84) 335168790, isSuccess:: false
+[16:49(01)] [warn] destroy browser
+[16:49(01)] [info] close all pages
+[16:49(01)] [warn] browser is crashed
+[16:49(01)] [warn] recreated browser
+[16:49(01)] [warn] init browser
+[16:49(01)] [info] browser's pages are closed
+[16:49(01)] [info] browser is not created
+[16:49(01)] [info] browser is locked, wait for unlock
+[16:49(01)] [info] browser is created
+[16:49(01)] [info] username:: (+84) 369812507, isSuccess:: false
+[16:49(01)] [warn] destroy browser
+[16:49(01)] [info] close all pages
+[16:49(01)] [warn] browser is crashed
+[10:53(02)] [info] browser is not created
+[10:53(02)] [warn] init browser
+[10:53(02)] [info] browser is created
+[10:53(02)] [info] username:: (+84) 335168790, isSuccess:: true
+[10:53(02)] [warn] destroy browser
+[10:53(02)] [info] close all pages
+[10:53(02)] [warn] browser is crashed
+[10:53(02)] [warn] recreated browser
+[10:53(02)] [warn] init browser
+[10:53(02)] [info] browser's pages are closed
+[10:53(02)] [info] browser is not created
+[10:53(02)] [info] browser is locked, wait for unlock
+[10:53(02)] [info] browser is created
+[10:54(02)] [info] username:: (+84) 369812507, isSuccess:: true
+[10:54(02)] [warn] destroy browser
+[10:54(02)] [info] close all pages
+[10:54(02)] [warn] browser is crashed
+[18:33(02)] [info] browser is not created
+[18:33(02)] [warn] init browser
+[18:33(02)] [info] browser is created
+[18:33(02)] [info] username:: (+84) 335168790, isSuccess:: false
+[18:33(02)] [warn] destroy browser
+[18:33(02)] [info] close all pages
+[18:33(02)] [warn] browser is crashed
+[18:33(02)] [warn] recreated browser
+[18:33(02)] [warn] init browser
+[18:33(02)] [info] browser's pages are closed
+[18:33(02)] [info] browser is not created
+[18:33(02)] [info] browser is locked, wait for unlock
+[18:33(02)] [info] browser is created
+[18:34(02)] [info] username:: (+84) 369812507, isSuccess:: false
+[18:34(02)] [warn] destroy browser
+[18:34(02)] [info] close all pages
+[18:34(02)] [warn] browser is crashed
+[20:45(03)] [info] browser is not created
+[20:45(03)] [warn] init browser
+[20:45(03)] [info] browser is created
+[20:45(03)] [info] username:: (+84) 335168790, isSuccess:: true
+[20:45(03)] [warn] destroy browser
+[20:45(03)] [info] close all pages
+[20:45(03)] [warn] browser is crashed
+[20:45(03)] [warn] recreated browser
+[20:45(03)] [warn] init browser
+[20:45(03)] [info] browser's pages are closed
+[20:45(03)] [info] browser is not created
+[20:45(03)] [info] browser is locked, wait for unlock
+[20:45(03)] [info] browser is created
+[20:45(03)] [info] username:: (+84) 369812507, isSuccess:: true
+[20:45(03)] [warn] destroy browser
+[20:45(03)] [info] close all pages
+[20:45(03)] [warn] browser is crashed
+[20:45(03)] [warn] recreated browser
+[20:45(03)] [warn] init browser
+[20:45(03)] [info] browser's pages are closed
+[19:01(04)] [info] browser is not created
+[19:01(04)] [warn] init browser
+[19:01(04)] [info] browser is created
+[19:01(04)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:01(04)] [warn] destroy browser
+[19:01(04)] [info] close all pages
+[19:01(04)] [warn] browser is crashed
+[19:01(04)] [warn] recreated browser
+[19:01(04)] [warn] init browser
+[19:01(04)] [info] browser's pages are closed
+[19:01(04)] [info] browser is not created
+[19:01(04)] [info] browser is locked, wait for unlock
+[19:01(04)] [info] browser is created
+[19:01(04)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:01(04)] [warn] destroy browser
+[19:01(04)] [info] close all pages
+[19:01(04)] [warn] browser is crashed
+[23:04(04)] [info] browser is not created
+[23:04(04)] [warn] init browser
+[23:04(04)] [info] browser is created
+[23:04(04)] [info] username:: (+84) 335168790, isSuccess:: false
+[23:04(04)] [warn] destroy browser
+[23:04(04)] [info] close all pages
+[23:04(04)] [warn] browser is crashed
+[23:04(04)] [warn] recreated browser
+[23:04(04)] [warn] init browser
+[23:04(04)] [info] browser's pages are closed
+[23:04(04)] [info] browser is not created
+[23:04(04)] [info] browser is locked, wait for unlock
+[23:04(04)] [info] browser is created
+[23:05(04)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:05(04)] [warn] destroy browser
+[23:05(04)] [info] close all pages
+[23:05(04)] [warn] browser is crashed
+[19:30(05)] [info] browser is not created
+[19:30(05)] [warn] init browser
+[19:30(05)] [info] browser is created
+[19:30(05)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:30(05)] [warn] destroy browser
+[19:30(05)] [info] close all pages
+[19:30(05)] [warn] browser is crashed
+[19:30(05)] [warn] recreated browser
+[19:30(05)] [warn] init browser
+[19:30(05)] [info] browser's pages are closed
+[19:30(05)] [info] browser is not created
+[19:30(05)] [info] browser is locked, wait for unlock
+[19:30(05)] [info] browser is created
+[19:30(05)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:30(05)] [warn] destroy browser
+[19:30(05)] [info] close all pages
+[19:30(05)] [warn] browser is crashed
+[22:24(05)] [info] browser is not created
+[22:24(05)] [warn] init browser
+[22:24(05)] [info] browser is created
+[22:24(05)] [info] username:: (+84) 335168790, isSuccess:: true
+[22:24(05)] [warn] destroy browser
+[22:24(05)] [info] close all pages
+[22:24(05)] [warn] browser is crashed
+[22:24(05)] [warn] recreated browser
+[22:24(05)] [warn] init browser
+[22:24(05)] [info] browser's pages are closed
+[22:24(05)] [info] browser is not created
+[22:24(05)] [info] browser is locked, wait for unlock
+[22:24(05)] [info] browser is created
+[22:24(05)] [info] username:: (+84) 369812507, isSuccess:: true
+[22:24(05)] [warn] destroy browser
+[22:24(05)] [info] close all pages
+[22:24(05)] [warn] browser is crashed
+[23:05(06)] [info] browser is not created
+[23:05(06)] [warn] init browser
+[23:05(06)] [info] browser is created
+[23:05(06)] [info] username:: (+84) 335168790, isSuccess:: true
+[23:05(06)] [warn] destroy browser
+[23:05(06)] [info] close all pages
+[23:05(06)] [warn] browser is crashed
+[23:05(06)] [warn] recreated browser
+[23:05(06)] [warn] init browser
+[23:05(06)] [info] browser's pages are closed
+[23:05(06)] [info] browser is not created
+[23:05(06)] [info] browser is locked, wait for unlock
+[23:05(06)] [info] browser is created
+[23:05(06)] [info] username:: (+84) 369812507, isSuccess:: true
+[23:05(06)] [warn] destroy browser
+[23:05(06)] [info] close all pages
+[23:05(06)] [warn] browser is crashed
+[11:52(07)] [info] browser is not created
+[11:52(07)] [warn] init browser
+[11:52(07)] [info] browser is created
+[11:53(07)] [info] username:: (+84) 335168790, isSuccess:: true
+[11:53(07)] [warn] destroy browser
+[11:53(07)] [info] close all pages
+[11:53(07)] [warn] browser is crashed
+[11:53(07)] [warn] recreated browser
+[11:53(07)] [warn] init browser
+[11:53(07)] [info] browser's pages are closed
+[11:53(07)] [info] browser is not created
+[11:53(07)] [info] browser is locked, wait for unlock
+[11:53(07)] [info] browser is created
+[11:53(07)] [info] username:: (+84) 369812507, isSuccess:: true
+[11:53(07)] [warn] destroy browser
+[11:53(07)] [info] close all pages
+[11:53(07)] [warn] browser is crashed
+[11:58(07)] [info] browser is not created
+[11:58(07)] [warn] init browser
+[11:58(07)] [info] browser is created
+[11:58(07)] [info] username:: (+84) 335168790, isSuccess:: false
+[11:58(07)] [warn] destroy browser
+[11:58(07)] [info] close all pages
+[11:58(07)] [warn] browser is crashed
+[11:58(07)] [warn] recreated browser
+[11:58(07)] [warn] init browser
+[11:58(07)] [info] browser's pages are closed
+[11:58(07)] [info] browser is not created
+[11:58(07)] [info] browser is locked, wait for unlock
+[11:58(07)] [info] browser is created
+[11:59(07)] [info] username:: (+84) 369812507, isSuccess:: false
+[11:59(07)] [warn] destroy browser
+[11:59(07)] [info] close all pages
+[11:59(07)] [warn] browser is crashed
+[13:46(07)] [info] browser is not created
+[13:46(07)] [warn] init browser
+[13:46(07)] [info] browser is created
+[13:46(07)] [info] username:: (+84) 335168790, isSuccess:: false
+[13:46(07)] [warn] destroy browser
+[13:46(07)] [info] close all pages
+[13:46(07)] [warn] browser is crashed
+[13:46(07)] [warn] recreated browser
+[13:46(07)] [warn] init browser
+[13:46(07)] [info] browser's pages are closed
+[13:46(07)] [info] browser is not created
+[13:46(07)] [info] browser is locked, wait for unlock
+[13:46(07)] [info] browser is created
+[13:47(07)] [info] username:: (+84) 369812507, isSuccess:: false
+[13:47(07)] [warn] destroy browser
+[13:47(07)] [info] close all pages
+[13:47(07)] [warn] browser is crashed
+[11:50(08)] [info] browser is not created
+[11:50(08)] [warn] init browser
+[11:50(08)] [info] browser is created
+[11:50(08)] [info] username:: (+84) 335168790, isSuccess:: true
+[11:50(08)] [warn] destroy browser
+[11:50(08)] [info] close all pages
+[11:50(08)] [warn] browser is crashed
+[11:50(08)] [warn] recreated browser
+[11:50(08)] [warn] init browser
+[11:50(08)] [info] browser's pages are closed
+[11:50(08)] [info] browser is not created
+[11:50(08)] [info] browser is locked, wait for unlock
+[11:50(08)] [info] browser is created
+[11:50(08)] [info] username:: (+84) 369812507, isSuccess:: true
+[11:50(08)] [warn] destroy browser
+[11:50(08)] [info] close all pages
+[11:50(08)] [warn] browser is crashed
+[22:52(08)] [info] browser is not created
+[22:52(08)] [warn] init browser
+[22:52(08)] [info] browser is created
+[22:53(08)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:53(08)] [warn] destroy browser
+[22:53(08)] [info] close all pages
+[22:53(08)] [warn] browser is crashed
+[22:53(08)] [warn] recreated browser
+[22:53(08)] [warn] init browser
+[22:53(08)] [info] browser's pages are closed
+[22:53(08)] [info] browser is not created
+[22:53(08)] [info] browser is locked, wait for unlock
+[22:53(08)] [info] browser is created
+[22:53(08)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:53(08)] [warn] destroy browser
+[22:53(08)] [info] close all pages
+[22:53(08)] [warn] browser is crashed
+[21:24(09)] [info] browser is not created
+[21:24(09)] [warn] init browser
+[21:24(09)] [info] browser is created
+[21:24(09)] [info] username:: (+84) 335168790, isSuccess:: true
+[21:24(09)] [warn] destroy browser
+[21:24(09)] [info] close all pages
+[21:24(09)] [warn] browser is crashed
+[21:24(09)] [warn] recreated browser
+[21:24(09)] [warn] init browser
+[21:24(09)] [info] browser's pages are closed
+[21:24(09)] [info] browser is not created
+[21:24(09)] [info] browser is locked, wait for unlock
+[21:24(09)] [info] browser is created
+[21:24(09)] [info] username:: (+84) 369812507, isSuccess:: true
+[21:24(09)] [warn] destroy browser
+[21:24(09)] [info] close all pages
+[21:24(09)] [warn] browser is crashed
+[23:43(09)] [info] browser is not created
+[23:43(09)] [warn] init browser
+[23:43(09)] [info] browser is created
+[23:43(09)] [info] username:: (+84) 335168790, isSuccess:: false
+[23:43(09)] [warn] destroy browser
+[23:43(09)] [info] close all pages
+[23:43(09)] [warn] browser is crashed
+[23:43(09)] [warn] recreated browser
+[23:43(09)] [warn] init browser
+[23:43(09)] [info] browser's pages are closed
+[23:43(09)] [info] browser is not created
+[23:43(09)] [info] browser is locked, wait for unlock
+[23:43(09)] [info] browser is created
+[23:43(09)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:43(09)] [warn] destroy browser
+[23:43(09)] [info] close all pages
+[23:43(09)] [warn] browser is crashed
+[16:40(10)] [info] browser is not created
+[16:40(10)] [warn] init browser
+[16:40(10)] [info] browser is created
+[16:40(10)] [info] username:: (+84) 335168790, isSuccess:: true
+[16:40(10)] [warn] destroy browser
+[16:40(10)] [info] close all pages
+[16:40(10)] [warn] browser is crashed
+[16:40(10)] [warn] recreated browser
+[16:40(10)] [warn] init browser
+[16:40(10)] [info] browser's pages are closed
+[16:40(10)] [info] browser is not created
+[16:40(10)] [info] browser is locked, wait for unlock
+[16:40(10)] [info] browser is created
+[16:40(10)] [info] username:: (+84) 369812507, isSuccess:: true
+[16:40(10)] [warn] destroy browser
+[16:40(10)] [info] close all pages
+[16:40(10)] [warn] browser is crashed
+[23:13(11)] [info] browser is not created
+[23:13(11)] [warn] init browser
+[23:13(11)] [info] browser is created
+[23:13(11)] [info] username:: (+84) 335168790, isSuccess:: true
+[23:13(11)] [warn] destroy browser
+[23:13(11)] [info] close all pages
+[23:13(11)] [warn] browser is crashed
+[23:13(11)] [warn] recreated browser
+[23:13(11)] [warn] init browser
+[23:13(11)] [info] browser's pages are closed
+[23:13(11)] [info] browser is not created
+[23:13(11)] [info] browser is locked, wait for unlock
+[23:13(11)] [info] browser is created
+[23:13(11)] [info] username:: (+84) 369812507, isSuccess:: true
+[23:13(11)] [warn] destroy browser
+[23:13(11)] [info] close all pages
+[23:13(11)] [warn] browser is crashed
+[21:06(12)] [info] browser is not created
+[21:06(12)] [warn] init browser
+[21:06(12)] [info] browser is created
+[19:42(13)] [info] browser is not created
+[19:42(13)] [warn] init browser
+[19:42(13)] [info] browser is created
+[19:42(13)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:42(13)] [warn] destroy browser
+[19:42(13)] [info] close all pages
+[19:42(13)] [warn] browser is crashed
+[19:42(13)] [warn] recreated browser
+[19:42(13)] [warn] init browser
+[19:42(13)] [info] browser's pages are closed
+[19:42(13)] [info] browser is not created
+[19:42(13)] [info] browser is locked, wait for unlock
+[19:42(13)] [info] browser is created
+[19:42(13)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:42(13)] [warn] destroy browser
+[19:42(13)] [info] close all pages
+[19:42(13)] [warn] browser is crashed
+[23:10(13)] [info] browser is not created
+[23:10(13)] [warn] init browser
+[23:10(13)] [info] browser is created
+[23:10(13)] [info] username:: (+84) 335168790, isSuccess:: false
+[23:10(13)] [warn] destroy browser
+[23:10(13)] [info] close all pages
+[23:10(13)] [warn] browser is crashed
+[23:10(13)] [warn] recreated browser
+[23:10(13)] [warn] init browser
+[23:10(13)] [info] browser's pages are closed
+[23:10(13)] [info] browser is not created
+[23:10(13)] [info] browser is locked, wait for unlock
+[23:10(13)] [info] browser is created
+[23:10(13)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:10(13)] [warn] destroy browser
+[23:10(13)] [info] close all pages
+[23:10(13)] [warn] browser is crashed
+[13:19(14)] [info] browser is not created
+[13:19(14)] [warn] init browser
+[13:19(14)] [info] browser is created
+[13:19(14)] [info] username:: (+84) 335168790, isSuccess:: true
+[13:19(14)] [warn] destroy browser
+[13:19(14)] [info] close all pages
+[13:19(14)] [warn] browser is crashed
+[13:19(14)] [warn] recreated browser
+[13:19(14)] [warn] init browser
+[13:19(14)] [info] browser's pages are closed
+[13:19(14)] [info] browser is not created
+[13:19(14)] [info] browser is locked, wait for unlock
+[13:19(14)] [info] browser is created
+[13:19(14)] [info] username:: (+84) 369812507, isSuccess:: true
+[13:19(14)] [warn] destroy browser
+[13:19(14)] [info] close all pages
+[13:19(14)] [warn] browser is crashed
+[18:57(14)] [info] browser is not created
+[18:57(14)] [warn] init browser
+[18:57(14)] [info] browser is created
+[18:57(14)] [info] username:: (+84) 335168790, isSuccess:: false
+[18:57(14)] [warn] destroy browser
+[18:57(14)] [info] close all pages
+[18:57(14)] [warn] browser is crashed
+[18:57(14)] [warn] recreated browser
+[18:57(14)] [warn] init browser
+[18:57(14)] [info] browser's pages are closed
+[18:57(14)] [info] browser is not created
+[18:57(14)] [info] browser is locked, wait for unlock
+[18:57(14)] [info] browser is created
+[18:58(14)] [info] username:: (+84) 369812507, isSuccess:: false
+[18:58(14)] [warn] destroy browser
+[18:58(14)] [info] close all pages
+[18:58(14)] [warn] browser is crashed
+[19:07(15)] [info] browser is not created
+[19:07(15)] [warn] init browser
+[19:07(15)] [info] browser is created
+[19:07(15)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:07(15)] [warn] destroy browser
+[19:07(15)] [info] close all pages
+[19:07(15)] [warn] browser is crashed
+[19:07(15)] [warn] recreated browser
+[19:07(15)] [warn] init browser
+[19:07(15)] [info] browser's pages are closed
+[19:07(15)] [info] browser is not created
+[19:07(15)] [info] browser is locked, wait for unlock
+[19:07(15)] [info] browser is created
+[19:07(15)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:07(15)] [warn] destroy browser
+[19:07(15)] [info] close all pages
+[19:07(15)] [warn] browser is crashed
+[00:41(16)] [info] browser is not created
+[00:41(16)] [warn] init browser
+[00:41(16)] [info] browser is created
+[00:42(16)] [info] username:: (+84) 335168790, isSuccess:: true
+[00:42(16)] [warn] destroy browser
+[00:42(16)] [info] close all pages
+[00:42(16)] [warn] browser is crashed
+[00:42(16)] [warn] recreated browser
+[00:42(16)] [warn] init browser
+[00:42(16)] [info] browser's pages are closed
+[00:42(16)] [info] browser is not created
+[00:42(16)] [info] browser is locked, wait for unlock
+[00:42(16)] [info] browser is created
+[00:42(16)] [info] username:: (+84) 369812507, isSuccess:: true
+[00:42(16)] [warn] destroy browser
+[00:42(16)] [info] close all pages
+[00:42(16)] [warn] browser is crashed
+[22:23(16)] [info] browser is not created
+[22:23(16)] [warn] init browser
+[22:23(16)] [info] browser is created
+[22:24(16)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:24(16)] [warn] destroy browser
+[22:24(16)] [info] close all pages
+[22:24(16)] [warn] browser is crashed
+[22:24(16)] [warn] recreated browser
+[22:24(16)] [warn] init browser
+[22:24(16)] [info] browser's pages are closed
+[22:24(16)] [info] browser is not created
+[22:24(16)] [info] browser is locked, wait for unlock
+[22:24(16)] [info] browser is created
+[22:24(16)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:24(16)] [warn] destroy browser
+[22:24(16)] [info] close all pages
+[22:24(16)] [warn] browser is crashed
+[17:21(28)] [info] browser is not created
+[17:21(28)] [warn] init browser
+[17:21(28)] [info] browser is created
+[17:21(28)] [info] username:: (+84) 335168790, isSuccess:: true
+[17:21(28)] [warn] destroy browser
+[17:21(28)] [info] close all pages
+[17:21(28)] [warn] browser is crashed
+[17:21(28)] [warn] recreated browser
+[17:21(28)] [warn] init browser
+[17:21(28)] [info] browser's pages are closed
+[17:21(28)] [info] browser is not created
+[17:21(28)] [info] browser is locked, wait for unlock
+[17:21(28)] [info] browser is created
+[17:21(28)] [info] username:: (+84) 369812507, isSuccess:: true
+[17:21(28)] [warn] destroy browser
+[17:21(28)] [info] close all pages
+[17:21(28)] [warn] browser is crashed
+[16:48(29)] [info] browser is not created
+[16:48(29)] [warn] init browser
+[16:48(29)] [info] browser is created
+[16:48(29)] [info] username:: (+84) 335168790, isSuccess:: true
+[16:48(29)] [warn] destroy browser
+[16:48(29)] [info] close all pages
+[16:48(29)] [warn] browser is crashed
+[16:48(29)] [warn] recreated browser
+[16:48(29)] [warn] init browser
+[16:48(29)] [info] browser's pages are closed
+[16:48(29)] [info] browser is not created
+[16:48(29)] [info] browser is locked, wait for unlock
+[16:48(29)] [info] browser is created
+[16:48(29)] [info] username:: (+84) 369812507, isSuccess:: true
+[16:48(29)] [warn] destroy browser
+[16:48(29)] [info] close all pages
+[16:48(29)] [warn] browser is crashed
+[19:17(29)] [info] browser is not created
+[19:17(29)] [warn] init browser
+[19:17(29)] [info] browser is created
+[19:18(29)] [info] username:: (+84) 335168790, isSuccess:: false
+[19:18(29)] [warn] destroy browser
+[19:18(29)] [info] close all pages
+[19:18(29)] [warn] browser is crashed
+[19:18(29)] [warn] recreated browser
+[19:18(29)] [warn] init browser
+[19:18(29)] [info] browser's pages are closed
+[19:18(29)] [info] browser is not created
+[19:18(29)] [info] browser is locked, wait for unlock
+[19:18(29)] [info] browser is created
+[19:18(29)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:18(29)] [warn] destroy browser
+[19:18(29)] [info] close all pages
+[19:18(29)] [warn] browser is crashed
+[21:56(30)] [info] browser is not created
+[21:56(30)] [warn] init browser
+[21:56(30)] [info] browser is created
+[21:56(30)] [info] username:: (+84) 335168790, isSuccess:: true
+[21:56(30)] [warn] destroy browser
+[21:56(30)] [info] close all pages
+[21:56(30)] [warn] browser is crashed
+[21:56(30)] [warn] recreated browser
+[21:56(30)] [warn] init browser
+[21:56(30)] [info] browser's pages are closed
+[21:56(30)] [info] browser is not created
+[21:56(30)] [info] browser is locked, wait for unlock
+[21:56(30)] [info] browser is created
+[21:56(30)] [info] username:: (+84) 369812507, isSuccess:: true
+[21:56(30)] [warn] destroy browser
+[21:56(30)] [info] close all pages
+[21:56(30)] [warn] browser is crashed
+[19:58(31)] [info] browser is not created
+[19:58(31)] [warn] init browser
+[19:58(31)] [info] browser is created
+[19:58(31)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:58(31)] [warn] destroy browser
+[19:58(31)] [info] close all pages
+[19:58(31)] [warn] browser is crashed
+[19:58(31)] [warn] recreated browser
+[19:58(31)] [warn] init browser
+[19:58(31)] [info] browser's pages are closed
+[19:58(31)] [info] browser is not created
+[19:58(31)] [info] browser is locked, wait for unlock
+[19:58(31)] [info] browser is created
+[19:58(31)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:58(31)] [warn] destroy browser
+[19:58(31)] [info] close all pages
+[19:58(31)] [warn] browser is crashed
+[21:22(02)] [info] browser is not created
+[21:22(02)] [warn] init browser
+[21:22(02)] [info] browser is created
+[21:22(02)] [info] username:: (+84) 335168790, isSuccess:: true
+[21:22(02)] [warn] destroy browser
+[21:22(02)] [info] close all pages
+[21:22(02)] [warn] browser is crashed
+[21:22(02)] [warn] recreated browser
+[21:22(02)] [warn] init browser
+[21:22(02)] [info] browser's pages are closed
+[21:22(02)] [info] browser is not created
+[21:22(02)] [info] browser is locked, wait for unlock
+[21:22(02)] [info] browser is created
+[21:23(02)] [info] username:: (+84) 369812507, isSuccess:: true
+[21:23(02)] [warn] destroy browser
+[21:23(02)] [info] close all pages
+[21:23(02)] [warn] browser is crashed
+[19:39(03)] [info] browser is not created
+[19:39(03)] [warn] init browser
+[19:39(03)] [info] browser is created
+[19:39(03)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:39(03)] [warn] destroy browser
+[19:39(03)] [info] close all pages
+[19:39(03)] [warn] browser is crashed
+[19:39(03)] [warn] recreated browser
+[19:39(03)] [warn] init browser
+[19:39(03)] [info] browser's pages are closed
+[19:39(03)] [info] browser is not created
+[19:39(03)] [info] browser is locked, wait for unlock
+[19:39(03)] [info] browser is created
+[19:39(03)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:39(03)] [warn] destroy browser
+[19:39(03)] [info] close all pages
+[19:39(03)] [warn] browser is crashed
+[20:43(03)] [info] browser is not created
+[20:43(03)] [warn] init browser
+[20:43(03)] [info] browser is created
+[20:43(03)] [info] username:: (+84) 335168790, isSuccess:: false
+[20:43(03)] [warn] destroy browser
+[20:43(03)] [info] close all pages
+[20:43(03)] [warn] browser is crashed
+[20:43(03)] [warn] recreated browser
+[20:43(03)] [warn] init browser
+[20:43(03)] [info] browser's pages are closed
+[20:43(03)] [info] browser is not created
+[20:43(03)] [info] browser is locked, wait for unlock
+[20:43(03)] [info] browser is created
+[20:43(03)] [info] username:: (+84) 369812507, isSuccess:: false
+[20:43(03)] [warn] destroy browser
+[20:43(03)] [info] close all pages
+[20:43(03)] [warn] browser is crashed
+[11:03(04)] [info] browser is not created
+[11:03(04)] [warn] init browser
+[11:03(04)] [info] browser is created
+[11:03(04)] [info] username:: (+84) 335168790, isSuccess:: true
+[11:03(04)] [warn] destroy browser
+[11:03(04)] [info] close all pages
+[11:03(04)] [warn] browser is crashed
+[11:03(04)] [warn] recreated browser
+[11:03(04)] [warn] init browser
+[11:03(04)] [info] browser's pages are closed
+[11:03(04)] [info] browser is not created
+[11:03(04)] [info] browser is locked, wait for unlock
+[11:03(04)] [info] browser is created
+[11:03(04)] [info] username:: (+84) 369812507, isSuccess:: true
+[11:03(04)] [warn] destroy browser
+[11:03(04)] [info] close all pages
+[11:03(04)] [warn] browser is crashed
+[21:41(04)] [info] browser is not created
+[21:41(04)] [warn] init browser
+[21:41(04)] [info] browser is created
+[21:41(04)] [info] username:: (+84) 335168790, isSuccess:: false
+[21:41(04)] [warn] destroy browser
+[21:41(04)] [info] close all pages
+[21:41(04)] [warn] browser is crashed
+[21:41(04)] [warn] recreated browser
+[21:41(04)] [warn] init browser
+[21:41(04)] [info] browser's pages are closed
+[21:41(04)] [info] browser is not created
+[21:41(04)] [info] browser is locked, wait for unlock
+[21:41(04)] [info] browser is created
+[21:42(04)] [info] username:: (+84) 369812507, isSuccess:: false
+[21:42(04)] [warn] destroy browser
+[21:42(04)] [info] close all pages
+[21:42(04)] [warn] browser is crashed
+[09:51(05)] [info] browser is not created
+[09:51(05)] [warn] init browser
+[09:51(05)] [info] browser is created
+[09:51(05)] [info] username:: (+84) 335168790, isSuccess:: true
+[09:51(05)] [warn] destroy browser
+[09:51(05)] [info] close all pages
+[09:51(05)] [warn] browser is crashed
+[09:51(05)] [warn] recreated browser
+[09:51(05)] [warn] init browser
+[09:51(05)] [info] browser's pages are closed
+[09:51(05)] [info] browser is not created
+[09:51(05)] [info] browser is locked, wait for unlock
+[09:51(05)] [info] browser is created
+[09:52(05)] [info] username:: (+84) 369812507, isSuccess:: true
+[09:52(05)] [warn] destroy browser
+[09:52(05)] [info] close all pages
+[09:52(05)] [warn] browser is crashed
+[21:07(05)] [info] browser is not created
+[21:07(05)] [warn] init browser
+[21:07(05)] [info] browser is created
+[21:07(05)] [info] username:: (+84) 335168790, isSuccess:: false
+[21:07(05)] [warn] destroy browser
+[21:07(05)] [info] close all pages
+[21:07(05)] [warn] browser is crashed
+[21:07(05)] [warn] recreated browser
+[21:07(05)] [warn] init browser
+[21:07(05)] [info] browser's pages are closed
+[21:07(05)] [info] browser is not created
+[21:07(05)] [info] browser is locked, wait for unlock
+[21:07(05)] [info] browser is created
+[21:07(05)] [info] username:: (+84) 369812507, isSuccess:: false
+[21:07(05)] [warn] destroy browser
+[21:07(05)] [info] close all pages
+[21:07(05)] [warn] browser is crashed
+[21:11(06)] [info] browser is not created
+[21:11(06)] [warn] init browser
+[21:11(06)] [info] browser is created
+[21:11(06)] [info] username:: (+84) 335168790, isSuccess:: true
+[21:11(06)] [warn] destroy browser
+[21:11(06)] [info] close all pages
+[21:11(06)] [warn] browser is crashed
+[21:11(06)] [warn] recreated browser
+[21:11(06)] [warn] init browser
+[21:11(06)] [info] browser's pages are closed
+[21:11(06)] [info] browser is not created
+[21:11(06)] [info] browser is locked, wait for unlock
+[21:11(06)] [info] browser is created
+[21:11(06)] [info] username:: (+84) 369812507, isSuccess:: true
+[21:11(06)] [warn] destroy browser
+[21:11(06)] [info] close all pages
+[21:11(06)] [warn] browser is crashed
+[22:48(06)] [info] browser is not created
+[22:48(06)] [warn] init browser
+[22:48(06)] [info] browser is created
+[22:48(06)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:48(06)] [warn] destroy browser
+[22:48(06)] [info] close all pages
+[22:48(06)] [warn] browser is crashed
+[22:48(06)] [warn] recreated browser
+[22:48(06)] [warn] init browser
+[22:48(06)] [info] browser's pages are closed
+[22:48(06)] [info] browser is not created
+[22:48(06)] [info] browser is locked, wait for unlock
+[22:48(06)] [info] browser is created
+[22:48(06)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:48(06)] [warn] destroy browser
+[22:48(06)] [info] close all pages
+[22:48(06)] [warn] browser is crashed
+[19:23(07)] [info] browser is not created
+[19:23(07)] [warn] init browser
+[19:23(07)] [info] browser is created
+[19:23(07)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:23(07)] [warn] destroy browser
+[19:23(07)] [info] close all pages
+[19:23(07)] [warn] browser is crashed
+[19:23(07)] [warn] recreated browser
+[19:23(07)] [warn] init browser
+[19:23(07)] [info] browser's pages are closed
+[19:23(07)] [info] browser is not created
+[19:23(07)] [info] browser is locked, wait for unlock
+[19:23(07)] [info] browser is created
+[19:23(07)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:23(07)] [warn] destroy browser
+[19:23(07)] [info] close all pages
+[19:23(07)] [warn] browser is crashed
+[13:10(08)] [info] browser is not created
+[13:10(08)] [warn] init browser
+[13:10(08)] [info] browser is created
+[13:10(08)] [info] username:: (+84) 335168790, isSuccess:: true
+[13:10(08)] [warn] destroy browser
+[13:10(08)] [info] close all pages
+[13:10(08)] [warn] browser is crashed
+[13:10(08)] [warn] recreated browser
+[13:10(08)] [warn] init browser
+[13:10(08)] [info] browser's pages are closed
+[13:10(08)] [info] browser is not created
+[13:10(08)] [info] browser is locked, wait for unlock
+[13:10(08)] [info] browser is created
+[13:11(08)] [info] username:: (+84) 369812507, isSuccess:: true
+[13:11(08)] [warn] destroy browser
+[13:11(08)] [info] close all pages
+[13:11(08)] [warn] browser is crashed
+[17:18(08)] [info] browser is not created
+[17:18(08)] [warn] init browser
+[17:18(08)] [info] browser is created
+[17:18(08)] [info] username:: (+84) 335168790, isSuccess:: false
+[17:18(08)] [warn] destroy browser
+[17:18(08)] [info] close all pages
+[17:18(08)] [warn] browser is crashed
+[17:18(08)] [warn] recreated browser
+[17:18(08)] [warn] init browser
+[17:18(08)] [info] browser's pages are closed
+[17:18(08)] [info] browser is not created
+[17:18(08)] [info] browser is locked, wait for unlock
+[17:18(08)] [info] browser is created
+[17:19(08)] [info] username:: (+84) 369812507, isSuccess:: false
+[17:19(08)] [warn] destroy browser
+[17:19(08)] [info] close all pages
+[17:19(08)] [warn] browser is crashed
+[06:12(09)] [info] browser is not created
+[06:12(09)] [warn] init browser
+[06:12(09)] [info] browser is created
+[06:12(09)] [info] username:: (+84) 335168790, isSuccess:: true
+[06:12(09)] [warn] destroy browser
+[06:12(09)] [info] close all pages
+[06:12(09)] [warn] browser is crashed
+[06:12(09)] [warn] recreated browser
+[06:12(09)] [warn] init browser
+[06:12(09)] [info] browser's pages are closed
+[06:12(09)] [info] browser is not created
+[06:12(09)] [info] browser is locked, wait for unlock
+[06:12(09)] [info] browser is created
+[06:12(09)] [info] username:: (+84) 369812507, isSuccess:: true
+[06:12(09)] [warn] destroy browser
+[06:12(09)] [info] close all pages
+[06:12(09)] [warn] browser is crashed
+[22:44(10)] [info] browser is not created
+[22:44(10)] [warn] init browser
+[22:44(10)] [info] browser is created
+[22:44(10)] [info] username:: (+84) 335168790, isSuccess:: true
+[22:44(10)] [warn] destroy browser
+[22:44(10)] [info] close all pages
+[22:44(10)] [warn] browser is crashed
+[22:44(10)] [warn] recreated browser
+[22:44(10)] [warn] init browser
+[22:44(10)] [info] browser's pages are closed
+[22:44(10)] [info] browser is not created
+[22:44(10)] [info] browser is locked, wait for unlock
+[22:44(10)] [info] browser is created
+[22:44(10)] [info] username:: (+84) 369812507, isSuccess:: true
+[22:44(10)] [warn] destroy browser
+[22:44(10)] [info] close all pages
+[22:44(10)] [warn] browser is crashed
+[23:01(10)] [info] browser is not created
+[23:01(10)] [warn] init browser
+[23:01(10)] [info] browser is created
+[23:01(10)] [info] username:: (+84) 335168790, isSuccess:: false
+[23:01(10)] [warn] destroy browser
+[23:01(10)] [info] close all pages
+[23:01(10)] [warn] browser is crashed
+[23:01(10)] [warn] recreated browser
+[23:01(10)] [warn] init browser
+[23:01(10)] [info] browser's pages are closed
+[23:01(10)] [info] browser is not created
+[23:01(10)] [info] browser is locked, wait for unlock
+[23:01(10)] [info] browser is created
+[23:02(10)] [info] username:: (+84) 369812507, isSuccess:: false
+[23:02(10)] [warn] destroy browser
+[23:02(10)] [info] close all pages
+[23:02(10)] [warn] browser is crashed
+[18:38(11)] [info] browser is not created
+[18:38(11)] [warn] init browser
+[18:38(11)] [info] browser is created
+[18:38(11)] [info] username:: (+84) 335168790, isSuccess:: true
+[18:38(11)] [warn] destroy browser
+[18:38(11)] [info] close all pages
+[18:38(11)] [warn] browser is crashed
+[18:38(11)] [warn] recreated browser
+[18:38(11)] [warn] init browser
+[18:38(11)] [info] browser's pages are closed
+[18:38(11)] [info] browser is not created
+[18:38(11)] [info] browser is locked, wait for unlock
+[18:38(11)] [info] browser is created
+[18:39(11)] [info] username:: (+84) 369812507, isSuccess:: true
+[18:39(11)] [warn] destroy browser
+[18:39(11)] [info] close all pages
+[18:39(11)] [warn] browser is crashed
+[21:52(12)] [info] browser is not created
+[21:52(12)] [warn] init browser
+[21:52(12)] [info] browser is created
+[21:52(12)] [info] username:: (+84) 335168790, isSuccess:: true
+[21:52(12)] [warn] destroy browser
+[21:52(12)] [info] close all pages
+[21:52(12)] [warn] browser is crashed
+[21:52(12)] [warn] recreated browser
+[21:52(12)] [warn] init browser
+[21:52(12)] [info] browser's pages are closed
+[21:52(12)] [info] browser is not created
+[21:52(12)] [info] browser is locked, wait for unlock
+[21:52(12)] [info] browser is created
+[21:53(12)] [info] username:: (+84) 369812507, isSuccess:: true
+[21:53(12)] [warn] destroy browser
+[21:53(12)] [info] close all pages
+[21:53(12)] [warn] browser is crashed
+[22:05(12)] [info] browser is not created
+[22:05(12)] [warn] init browser
+[22:05(12)] [info] browser is created
+[22:05(12)] [info] username:: (+84) 335168790, isSuccess:: false
+[22:05(12)] [warn] destroy browser
+[22:05(12)] [info] close all pages
+[22:05(12)] [warn] browser is crashed
+[22:05(12)] [warn] recreated browser
+[22:05(12)] [warn] init browser
+[22:05(12)] [info] browser's pages are closed
+[22:05(12)] [info] browser is not created
+[22:05(12)] [info] browser is locked, wait for unlock
+[22:05(12)] [info] browser is created
+[22:05(12)] [info] username:: (+84) 369812507, isSuccess:: false
+[22:05(12)] [warn] destroy browser
+[22:05(12)] [info] close all pages
+[22:05(12)] [warn] browser is crashed
+[00:39(13)] [info] browser is not created
+[00:39(13)] [warn] init browser
+[00:39(13)] [info] browser is created
+[00:40(13)] [info] username:: (+84) 335168790, isSuccess:: true
+[00:40(13)] [warn] destroy browser
+[00:40(13)] [info] close all pages
+[00:40(13)] [warn] browser is crashed
+[00:40(13)] [warn] recreated browser
+[00:40(13)] [warn] init browser
+[00:40(13)] [info] browser's pages are closed
+[00:40(13)] [info] browser is not created
+[00:40(13)] [info] browser is locked, wait for unlock
+[00:40(13)] [info] browser is created
+[00:40(13)] [info] username:: (+84) 369812507, isSuccess:: true
+[00:40(13)] [warn] destroy browser
+[00:40(13)] [info] close all pages
+[00:40(13)] [warn] browser is crashed
+[19:12(13)] [info] browser is not created
+[19:12(13)] [warn] init browser
+[19:12(13)] [info] browser is created
+[19:12(13)] [info] username:: (+84) 335168790, isSuccess:: false
+[19:12(13)] [warn] destroy browser
+[19:12(13)] [info] close all pages
+[19:12(13)] [warn] browser is crashed
+[19:12(13)] [warn] recreated browser
+[19:12(13)] [warn] init browser
+[19:12(13)] [info] browser's pages are closed
+[19:12(13)] [info] browser is not created
+[19:12(13)] [info] browser is locked, wait for unlock
+[19:12(13)] [info] browser is created
+[19:13(13)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:13(13)] [warn] destroy browser
+[19:13(13)] [info] close all pages
+[19:13(13)] [warn] browser is crashed
+[05:49(14)] [info] browser is not created
+[05:49(14)] [warn] init browser
+[05:49(14)] [info] browser is created
+[05:49(14)] [info] username:: (+84) 335168790, isSuccess:: true
+[05:49(14)] [warn] destroy browser
+[05:49(14)] [info] close all pages
+[05:49(14)] [warn] browser is crashed
+[05:49(14)] [warn] recreated browser
+[05:49(14)] [warn] init browser
+[05:49(14)] [info] browser's pages are closed
+[05:49(14)] [info] browser is not created
+[05:49(14)] [info] browser is locked, wait for unlock
+[05:49(14)] [info] browser is created
+[05:49(14)] [info] username:: (+84) 369812507, isSuccess:: true
+[05:49(14)] [warn] destroy browser
+[05:49(14)] [info] close all pages
+[05:49(14)] [warn] browser is crashed
+[19:28(14)] [info] browser is not created
+[19:28(14)] [warn] init browser
+[19:28(14)] [info] browser is created
+[19:28(14)] [info] username:: (+84) 335168790, isSuccess:: false
+[19:28(14)] [warn] destroy browser
+[19:28(14)] [info] close all pages
+[19:28(14)] [warn] browser is crashed
+[19:28(14)] [warn] recreated browser
+[19:28(14)] [warn] init browser
+[19:28(14)] [info] browser's pages are closed
+[19:28(14)] [info] browser is not created
+[19:28(14)] [info] browser is locked, wait for unlock
+[19:28(14)] [info] browser is created
+[19:29(14)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:29(14)] [warn] destroy browser
+[19:29(14)] [info] close all pages
+[19:29(14)] [warn] browser is crashed
+[23:08(15)] [info] browser is not created
+[23:08(15)] [warn] init browser
+[23:08(15)] [info] browser is created
+[23:09(15)] [info] username:: (+84) 335168790, isSuccess:: true
+[23:09(15)] [warn] destroy browser
+[23:09(15)] [info] close all pages
+[23:09(15)] [warn] browser is crashed
+[23:09(15)] [warn] recreated browser
+[23:09(15)] [warn] init browser
+[23:09(15)] [info] browser's pages are closed
+[23:09(15)] [info] browser is not created
+[23:09(15)] [info] browser is locked, wait for unlock
+[23:09(15)] [info] browser is created
+[23:09(15)] [info] username:: (+84) 369812507, isSuccess:: true
+[23:09(15)] [warn] destroy browser
+[23:09(15)] [info] close all pages
+[19:51(16)] [info] browser is not created
+[19:51(16)] [warn] init browser
+[19:51(16)] [info] browser is created
+[19:52(16)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:52(16)] [warn] destroy browser
+[19:52(16)] [info] close all pages
+[19:52(16)] [warn] browser is crashed
+[19:52(16)] [warn] recreated browser
+[19:52(16)] [warn] init browser
+[19:52(16)] [info] browser's pages are closed
+[19:52(16)] [info] browser is not created
+[19:52(16)] [info] browser is locked, wait for unlock
+[19:52(16)] [info] browser is created
+[19:52(16)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:52(16)] [warn] destroy browser
+[19:52(16)] [info] close all pages
+[19:52(16)] [warn] browser is crashed
+[12:27(17)] [info] browser is not created
+[12:27(17)] [warn] init browser
+[12:27(17)] [info] browser is created
+[12:27(17)] [info] username:: (+84) 335168790, isSuccess:: true
+[12:27(17)] [warn] destroy browser
+[12:27(17)] [info] close all pages
+[12:27(17)] [warn] browser is crashed
+[12:27(17)] [warn] recreated browser
+[12:27(17)] [warn] init browser
+[12:27(17)] [info] browser's pages are closed
+[12:27(17)] [info] browser is not created
+[12:27(17)] [info] browser is locked, wait for unlock
+[12:27(17)] [info] browser is created
+[12:27(17)] [info] username:: (+84) 369812507, isSuccess:: true
+[12:27(17)] [warn] destroy browser
+[12:27(17)] [info] close all pages
+[12:27(17)] [warn] browser is crashed
+[18:43(17)] [info] browser is not created
+[18:43(17)] [warn] init browser
+[18:43(17)] [info] browser is created
+[18:44(17)] [info] username:: (+84) 335168790, isSuccess:: false
+[18:44(17)] [warn] destroy browser
+[18:44(17)] [info] close all pages
+[18:44(17)] [warn] browser is crashed
+[18:44(17)] [warn] recreated browser
+[18:44(17)] [warn] init browser
+[18:44(17)] [info] browser's pages are closed
+[18:44(17)] [info] browser is not created
+[18:44(17)] [info] browser is locked, wait for unlock
+[18:44(17)] [info] browser is created
+[18:44(17)] [info] username:: (+84) 369812507, isSuccess:: false
+[18:44(17)] [warn] destroy browser
+[18:44(17)] [info] close all pages
+[18:44(17)] [warn] browser is crashed
+[11:29(18)] [info] browser is not created
+[11:29(18)] [warn] init browser
+[11:29(18)] [info] browser is created
+[11:29(18)] [info] username:: (+84) 335168790, isSuccess:: true
+[11:29(18)] [warn] destroy browser
+[11:29(18)] [info] close all pages
+[11:29(18)] [warn] browser is crashed
+[11:29(18)] [warn] recreated browser
+[11:29(18)] [warn] init browser
+[11:29(18)] [info] browser's pages are closed
+[11:29(18)] [info] browser is not created
+[11:29(18)] [info] browser is locked, wait for unlock
+[11:29(18)] [info] browser is created
+[11:29(18)] [info] username:: (+84) 369812507, isSuccess:: true
+[11:29(18)] [warn] destroy browser
+[11:29(18)] [info] close all pages
+[11:29(18)] [warn] browser is crashed
+[16:59(18)] [info] browser is not created
+[16:59(18)] [warn] init browser
+[16:59(18)] [info] browser is created
+[17:00(18)] [info] username:: (+84) 335168790, isSuccess:: false
+[17:00(18)] [warn] destroy browser
+[17:00(18)] [info] close all pages
+[17:00(18)] [warn] browser is crashed
+[17:00(18)] [warn] recreated browser
+[17:00(18)] [warn] init browser
+[17:00(18)] [info] browser's pages are closed
+[17:00(18)] [info] browser is not created
+[17:00(18)] [info] browser is locked, wait for unlock
+[17:00(18)] [info] browser is created
+[17:00(18)] [info] username:: (+84) 369812507, isSuccess:: true
+[17:00(18)] [warn] destroy browser
+[17:00(18)] [info] close all pages
+[17:00(18)] [warn] browser is crashed
+[08:47(19)] [info] browser is not created
+[08:47(19)] [warn] init browser
+[08:47(19)] [info] browser is created
+[08:47(19)] [info] username:: (+84) 335168790, isSuccess:: true
+[08:47(19)] [warn] destroy browser
+[08:47(19)] [info] close all pages
+[08:47(19)] [warn] browser is crashed
+[08:47(19)] [warn] recreated browser
+[08:47(19)] [warn] init browser
+[08:47(19)] [info] browser's pages are closed
+[08:47(19)] [info] browser is not created
+[08:47(19)] [info] browser is locked, wait for unlock
+[08:47(19)] [info] browser is created
+[08:47(19)] [info] username:: (+84) 369812507, isSuccess:: true
+[08:47(19)] [warn] destroy browser
+[08:47(19)] [info] close all pages
+[08:47(19)] [warn] browser is crashed
+[19:37(22)] [info] browser is not created
+[19:37(22)] [warn] init browser
+[19:37(22)] [info] browser is created
+[19:37(22)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:37(22)] [warn] destroy browser
+[19:37(22)] [info] close all pages
+[19:37(22)] [warn] browser is crashed
+[19:37(22)] [warn] recreated browser
+[19:37(22)] [warn] init browser
+[19:37(22)] [info] browser's pages are closed
+[19:37(22)] [info] browser is not created
+[19:37(22)] [info] browser is locked, wait for unlock
+[19:37(22)] [info] browser is created
+[19:38(22)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:38(22)] [warn] destroy browser
+[19:38(22)] [info] close all pages
+[19:38(22)] [warn] browser is crashed
+[19:08(23)] [info] browser is not created
+[19:08(23)] [warn] init browser
+[19:08(23)] [info] browser is created
+[19:08(23)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:08(23)] [warn] destroy browser
+[19:08(23)] [info] close all pages
+[19:08(23)] [warn] browser is crashed
+[19:08(23)] [warn] recreated browser
+[19:08(23)] [warn] init browser
+[19:08(23)] [info] browser's pages are closed
+[19:08(23)] [info] browser is not created
+[19:08(23)] [info] browser is locked, wait for unlock
+[19:08(23)] [info] browser is created
+[19:08(23)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:08(23)] [warn] destroy browser
+[19:08(23)] [info] close all pages
+[19:08(23)] [warn] browser is crashed
+[05:54(24)] [info] browser is not created
+[05:54(24)] [warn] init browser
+[05:54(24)] [info] browser is created
+[05:54(24)] [info] username:: (+84) 335168790, isSuccess:: true
+[05:54(24)] [warn] destroy browser
+[05:54(24)] [info] close all pages
+[05:54(24)] [warn] browser is crashed
+[05:54(24)] [warn] recreated browser
+[05:54(24)] [warn] init browser
+[05:54(24)] [info] browser's pages are closed
+[05:54(24)] [info] browser is not created
+[05:54(24)] [info] browser is locked, wait for unlock
+[05:54(24)] [info] browser is created
+[05:54(24)] [info] username:: (+84) 369812507, isSuccess:: true
+[05:54(24)] [warn] destroy browser
+[05:54(24)] [info] close all pages
+[11:59(24)] [info] browser is not created
+[11:59(24)] [warn] init browser
+[11:59(24)] [info] browser is created
+[11:59(24)] [info] username:: (+84) 335168790, isSuccess:: false
+[11:59(24)] [warn] destroy browser
+[11:59(24)] [info] close all pages
+[11:59(24)] [warn] browser is crashed
+[11:59(24)] [warn] recreated browser
+[11:59(24)] [warn] init browser
+[11:59(24)] [info] browser's pages are closed
+[11:59(24)] [info] browser is not created
+[11:59(24)] [info] browser is locked, wait for unlock
+[11:59(24)] [info] browser is created
+[11:59(24)] [info] username:: (+84) 369812507, isSuccess:: false
+[11:59(24)] [warn] destroy browser
+[11:59(24)] [info] close all pages
+[11:59(24)] [warn] browser is crashed
+[12:50(25)] [info] browser is not created
+[12:50(25)] [warn] init browser
+[12:50(25)] [info] browser is created
+[12:50(25)] [info] username:: (+84) 335168790, isSuccess:: true
+[12:50(25)] [warn] destroy browser
+[12:50(25)] [info] close all pages
+[12:50(25)] [warn] browser is crashed
+[12:50(25)] [warn] recreated browser
+[12:50(25)] [warn] init browser
+[12:50(25)] [info] browser's pages are closed
+[12:50(25)] [info] browser is not created
+[12:50(25)] [info] browser is locked, wait for unlock
+[12:50(25)] [info] browser is created
+[12:50(25)] [info] username:: (+84) 369812507, isSuccess:: true
+[12:50(25)] [warn] destroy browser
+[12:50(25)] [info] close all pages
+[12:50(25)] [warn] browser is crashed
+[19:13(25)] [info] browser is not created
+[19:13(25)] [warn] init browser
+[19:13(25)] [info] browser is created
+[19:13(25)] [info] username:: (+84) 335168790, isSuccess:: false
+[19:13(25)] [warn] destroy browser
+[19:13(25)] [info] close all pages
+[19:13(25)] [warn] browser is crashed
+[19:13(25)] [warn] recreated browser
+[19:13(25)] [warn] init browser
+[19:13(25)] [info] browser's pages are closed
+[19:13(25)] [info] browser is not created
+[19:13(25)] [info] browser is locked, wait for unlock
+[19:13(25)] [info] browser is created
+[19:14(25)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:14(25)] [warn] destroy browser
+[19:14(25)] [info] close all pages
+[19:14(25)] [warn] browser is crashed
+[13:10(26)] [info] browser is not created
+[13:10(26)] [warn] init browser
+[13:10(26)] [info] browser is created
+[13:10(26)] [info] username:: (+84) 335168790, isSuccess:: true
+[13:10(26)] [warn] destroy browser
+[13:10(26)] [info] close all pages
+[13:10(26)] [warn] browser is crashed
+[13:10(26)] [warn] recreated browser
+[13:10(26)] [warn] init browser
+[13:10(26)] [info] browser's pages are closed
+[13:10(26)] [info] browser is not created
+[13:10(26)] [info] browser is locked, wait for unlock
+[13:10(26)] [info] browser is created
+[13:10(26)] [info] username:: (+84) 369812507, isSuccess:: true
+[13:10(26)] [warn] destroy browser
+[13:10(26)] [info] close all pages
+[13:10(26)] [warn] browser is crashed
+[00:15(27)] [info] browser is not created
+[00:15(27)] [warn] init browser
+[00:15(27)] [info] browser is created
+[00:15(27)] [info] username:: (+84) 335168790, isSuccess:: true
+[00:15(27)] [warn] destroy browser
+[00:15(27)] [info] close all pages
+[00:15(27)] [warn] browser is crashed
+[00:15(27)] [warn] recreated browser
+[00:15(27)] [warn] init browser
+[00:15(27)] [info] browser's pages are closed
+[00:15(27)] [info] browser is not created
+[00:15(27)] [info] browser is locked, wait for unlock
+[00:15(27)] [info] browser is created
+[00:15(27)] [info] username:: (+84) 369812507, isSuccess:: true
+[00:15(27)] [warn] destroy browser
+[00:15(27)] [info] close all pages
+[00:15(27)] [warn] browser is crashed
+[12:27(27)] [info] browser is not created
+[12:27(27)] [warn] init browser
+[12:27(27)] [info] browser is created
+[12:28(27)] [info] username:: (+84) 335168790, isSuccess:: false
+[12:28(27)] [warn] destroy browser
+[12:28(27)] [info] close all pages
+[12:28(27)] [warn] browser is crashed
+[12:28(27)] [warn] recreated browser
+[12:28(27)] [warn] init browser
+[12:28(27)] [info] browser's pages are closed
+[12:28(27)] [info] browser is not created
+[12:28(27)] [info] browser is locked, wait for unlock
+[12:28(27)] [info] browser is created
+[12:28(27)] [info] username:: (+84) 369812507, isSuccess:: false
+[12:28(27)] [warn] destroy browser
+[12:28(27)] [info] close all pages
+[12:28(27)] [warn] browser is crashed
+[19:44(28)] [info] browser is not created
+[19:44(28)] [warn] init browser
+[19:44(28)] [info] browser is created
+[19:44(28)] [info] username:: (+84) 335168790, isSuccess:: true
+[19:44(28)] [warn] destroy browser
+[19:44(28)] [info] close all pages
+[19:44(28)] [warn] browser is crashed
+[19:44(28)] [warn] recreated browser
+[19:44(28)] [warn] init browser
+[19:44(28)] [info] browser's pages are closed
+[19:44(28)] [info] browser is not created
+[19:44(28)] [info] browser is locked, wait for unlock
+[19:44(28)] [info] browser is created
+[19:44(28)] [info] username:: (+84) 369812507, isSuccess:: true
+[19:44(28)] [warn] destroy browser
+[19:44(28)] [info] close all pages
+[19:44(28)] [warn] browser is crashed
+[09:55(01)] [info] browser is not created
+[09:55(01)] [warn] init browser
+[09:55(01)] [info] browser is created
+[09:55(01)] [info] username:: (+84) 335168790, isSuccess:: true
+[09:55(01)] [warn] destroy browser
+[09:55(01)] [info] close all pages
+[09:55(01)] [warn] browser is crashed
+[09:55(01)] [warn] recreated browser
+[09:55(01)] [warn] init browser
+[09:55(01)] [info] browser's pages are closed
+[09:55(01)] [info] browser is not created
+[09:55(01)] [info] browser is locked, wait for unlock
+[09:55(01)] [info] browser is created
+[09:55(01)] [info] username:: (+84) 369812507, isSuccess:: true
+[09:55(01)] [warn] destroy browser
+[09:55(01)] [info] close all pages
+[09:55(01)] [warn] browser is crashed
+[10:05(01)] [info] browser is not created
+[10:05(01)] [warn] init browser
+[10:05(01)] [info] browser is created
+[10:05(01)] [info] username:: (+84) 335168790, isSuccess:: false
+[10:05(01)] [warn] destroy browser
+[10:05(01)] [info] close all pages
+[10:05(01)] [warn] browser is crashed
+[10:05(01)] [warn] recreated browser
+[10:05(01)] [warn] init browser
+[10:05(01)] [info] browser's pages are closed
+[10:05(01)] [info] browser is not created
+[10:05(01)] [info] browser is locked, wait for unlock
+[10:05(01)] [info] browser is created
+[10:06(01)] [info] username:: (+84) 369812507, isSuccess:: false
+[10:06(01)] [warn] destroy browser
+[10:06(01)] [info] close all pages
+[10:06(01)] [warn] browser is crashed
+[19:53(01)] [info] browser is not created
+[19:53(01)] [warn] init browser
+[19:53(01)] [info] browser is created
+[19:53(01)] [info] username:: (+84) 335168790, isSuccess:: false
+[19:53(01)] [warn] destroy browser
+[19:53(01)] [info] close all pages
+[19:53(01)] [warn] browser is crashed
+[19:53(01)] [warn] recreated browser
+[19:53(01)] [warn] init browser
+[19:53(01)] [info] browser's pages are closed
+[19:53(01)] [info] browser is not created
+[19:53(01)] [info] browser is locked, wait for unlock
+[19:53(01)] [info] browser is created
+[19:54(01)] [info] username:: (+84) 369812507, isSuccess:: false
+[19:54(01)] [warn] destroy browser
+[19:54(01)] [info] close all pages
+[19:54(01)] [warn] browser is crashed
