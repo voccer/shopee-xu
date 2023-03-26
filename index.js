@@ -68,6 +68,8 @@ async function handler(username, password) {
     timeout: 30000,
   });
 
+  await sleep("step");
+
   const candidateRateButtonElements = await page.$$("button.stardust-button");
 
   const rateButtonElements = [];
