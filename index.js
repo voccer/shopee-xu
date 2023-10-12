@@ -24,10 +24,10 @@ async function handler(username, password) {
   await sleep(1000);
 
   await page.focus('input[name="loginKey"]');
-  await page.keyboard.type(username);
+  await page.keyboard.type(username, { delay: 100 });
 
   await page.focus('input[name="password"]');
-  await page.keyboard.type(password);
+  await page.keyboard.type(password, { delay: 100 });
 
   await sleep("step");
 
@@ -36,6 +36,7 @@ async function handler(username, password) {
   );
 
   await sleep("step");
+  logger.info(`username:: ${username} success`);
 
   await page.waitForSelector("div#main", {
     timeout: 30000,
@@ -43,7 +44,10 @@ async function handler(username, password) {
 
   await sleep("step");
 
-  let isSuccess = false;
+  // collect xu
+  logger.info("collecting xu ...");
+
+  // await sleep(100000);
   for (let i = 0; i < 3; i++) {
     const isExist = await checkElementExist(
       page,
@@ -51,13 +55,11 @@ async function handler(username, password) {
     );
     if (isExist) {
       await page.click("button[data-inactive=false]");
-      isSuccess = true;
+
       break;
     }
     await sleep("step");
   }
-
-  logger.info(`username:: ${username}, isSuccess:: ${isSuccess}`);
 
   const attendanceUrl =
     "https://shopee.vn/buyer/login?from=https%3A%2F%2Fshopee.vn%2Fuser%2Fpurchase%2F%3Ftype%3D3&next=https%3A%2F%2Fshopee.vn%2Fuser%2Fpurchase%2F%3Ftype%3D3";
@@ -94,7 +96,8 @@ async function handler(username, password) {
     const textAreaElements = await page.$$("textarea");
     for (const textAreaElement of textAreaElements) {
       await textAreaElement.type(
-        "Hàng đúng như mô tả, hàng còn mới, giao hàng nhanh chóng, shop nhiệt tình, ủng hộ."
+        "Hàng đúng như mô tả, hàng còn mới, giao hàng nhanh chóng, shop nhiệt tình, ủng hộ.",
+        { delay: 50 }
       );
     }
 
@@ -127,8 +130,7 @@ async function handler(username, password) {
         await candidateCompleteButtonElement.evaluate((node) => node.innerText)
       ).trim();
 
-      console.log("text:: ", text);
-      if (text === "HOÀN THÀNH") {
+      if (text.toLowerCase() === "hoàn thành") {
         completeButtonElements.push(candidateCompleteButtonElement);
       }
     }
