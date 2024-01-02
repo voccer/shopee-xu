@@ -24,7 +24,7 @@ const handler = async (username, password) => {
   await page.waitForSelector('#main')
 
   log.info('collecting xu ...')
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < 5; i++) {
     const isExist = await checkElementExist(page, 'button[data-inactive=false]')
     if (isExist) {
       await page.click('button[data-inactive=false]', { delay: 1000 })
