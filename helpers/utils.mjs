@@ -1,11 +1,8 @@
-const fs = require('fs')
-const path = require('path')
-
-function getRandomInt(max) {
+export function getRandomInt(max) {
   return Math.floor(Math.random() * max)
 }
 
-async function sleep(ms) {
+export async function sleep(ms) {
   if (ms === 'step') {
     ms = [1000, 2000, 3000][getRandomInt(3)]
   }
@@ -14,12 +11,12 @@ async function sleep(ms) {
   })
 }
 
-async function sleepWithReturnFlg(ms) {
+export async function sleepWithReturnFlg(ms) {
   await sleep(ms)
   return { sleepFlag: true }
 }
 
-function chunks(arr, size) {
+export function chunks(arr, size) {
   const max = arr.length
   const newArr = []
   let i = 0
@@ -33,19 +30,15 @@ function chunks(arr, size) {
   return newArr
 }
 
-function getTimeNow() {
+export function getTimeNow() {
   return parseInt(Date.now() / 1000)
 }
 
-function normalizeText(text) {
+export function normalizeText(text) {
   return (text || '').toLowerCase().replace(/\-/g, '').replace(/\_/g, '').trim()
 }
 
-
-module.exports = {
-  sleep,
-  sleepWithReturnFlg,
-  chunks,
-  getTimeNow,
-  normalizeText,
-}
+export const checkElementExist = async (page, selector) => {
+  const element = await page.$(selector);
+  return !!element;
+};

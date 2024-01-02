@@ -1,26 +1,22 @@
-const path = require('path')
-const fs = require('fs')
+import { config } from "dotenv";
+import path from "path";
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
-const dotenv = require('dotenv')
+const envPath = path.join(__dirname, ".env");
 
-// check .env file exists
-if (fs.existsSync(path.join(__dirname, '.env'))) {
-  dotenv.config({ path: path.join(__dirname, '.env'), override: false })
-} else {
-  dotenv.config({ path: path.join(__dirname, '.env.example'), override: false })
-}
+config({ path: envPath });
 
-function getBooleanValue(text) {
+const getBooleanValue = (text) => {
   if (text === undefined) {
-    return true
+    return true;
   }
 
-  if (text.toLowerCase() === 'true') {
-    return true
+  if (text.toLowerCase() === "true") {
+    return true;
   }
 
-  return false
-}
+  return false;
+};
 
 const browserConfig = {
   browserHeadlessMode: getBooleanValue(process.env.BROWSER_HEADLESS_MODE),
@@ -35,12 +31,14 @@ const browserConfig = {
     +process.env.TIME_TO_WAIT_BEFORE_CLOSE_PAGE || 10000, // milliseconds
   userAgent:
     process.env.USER_AGENT ||
-    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36',
-}
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",
+};
 
 const accountConfig = {
   usernames: process.env.USERNAMES,
   passwords: process.env.PASSWORDS,
-}
+  recoveryEmail: process.env.RECOVERY_EMAIL,
+  recoveryEmailPassword: process.env.RECOVERY_EMAIL_PASSWORD,
+};
 
-module.exports = { browserConfig, accountConfig }
+export { browserConfig, accountConfig };

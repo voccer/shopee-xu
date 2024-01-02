@@ -1,4 +1,0 @@
-#! /bin/bash
-export BROWSER_HEADLESS_MODE="true"
-
-/usr/bin/env node /home/voccer/Desktop/shared/shopee-xu/index
