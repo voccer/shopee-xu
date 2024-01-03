@@ -125,7 +125,7 @@ const main = async () => {
   const usernameList = usernames.split(';')
   const passwordList = passwords.split(';')
 
-  for (let i = 1; i < usernameList.length; i++) {
+  for (let i = 0; i < usernameList.length; i++) {
     const username = usernameList[i]
     const password = passwordList[i]
     await handler(username, password)
