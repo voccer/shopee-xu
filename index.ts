@@ -29,11 +29,11 @@ const checkLogin = async (
       await sleep(1500)
     }
 
-    logger.info('needLogin', needLogin)
-
     if (!needLogin) {
       return logger.info("Don't need login")
     }
+
+    logger.info('Need login')
     const usernameLocator = page.locator('input[name="loginKey"]')
     await usernameLocator.pressSequentially(username, {
       delay: 100
@@ -115,7 +115,7 @@ const collectCoin = async (context: BrowserContext) => {
 
       if (getCoinLocators.length > 0) {
         await getCoinLocators[0].click({ delay: 1000, force: true })
-
+        logger.info('Collect coin success')
         break
       }
       await sleep(1000)
@@ -130,6 +130,7 @@ const collectCoin = async (context: BrowserContext) => {
 }
 
 const handler = async (username: string, password: string) => {
+  logger.info('======Start handler, username:', username)
   const userDir = path.join(
     __dirname,
     'data',
@@ -142,6 +143,7 @@ const handler = async (username: string, password: string) => {
 
   await sleep(5000)
   await closeContext(context)
+  logger.info('======End handler, username:', username)
 
   // const coinUrl = 'https://shopee.vn/shopee-coins'
   // await page.goto(coinUrl)

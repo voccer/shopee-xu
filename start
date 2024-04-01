@@ -1,0 +1,7 @@
+#! /bin/bash
+
+dir=$(dirname "$(realpath $0)")
+
+cd $dir
+
+/usr/bin/env npm run dev
