@@ -111,12 +111,15 @@ const collectCoin = async (context: BrowserContext) => {
     await sleep(5000)
 
     for (let i = 0; i < 15; i++) {
-      const getCoinLocators = await page
-        .locator('button[data-inactive=false]')
-        .all()
-
-      if (getCoinLocators.length > 0) {
-        await getCoinLocators[0].click({ delay: 1000, force: true })
+      const getCoinLocator = page.locator('button[data-inactive=false]').first()
+      const isExist = (await getCoinLocator.count()) > 0
+      if (isExist) {
+        await getCoinLocator.click({
+          delay: 1000,
+          force: true,
+          timeout: 60000,
+          clickCount: 2
+        })
         logger.info('Collect coin success')
         break
       }
