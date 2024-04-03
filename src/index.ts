@@ -108,7 +108,9 @@ const collectCoin = async (context: BrowserContext) => {
       timeout: 30000
     })
 
-    for (let i = 0; i < 10; i++) {
+    await sleep(5000)
+
+    for (let i = 0; i < 15; i++) {
       const getCoinLocators = await page
         .locator('button[data-inactive=false]')
         .all()
