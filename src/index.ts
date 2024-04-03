@@ -133,7 +133,7 @@ const handler = async (username: string, password: string) => {
   logger.info('======Start handler, username:', username)
   const userDir = path.join(
     __dirname,
-    'data',
+    '../data',
     'ig.insync' + username.split(' ').at(-1)
   )
   const context = await createNewContext(userDir)

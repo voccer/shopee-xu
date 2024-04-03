@@ -4,15 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npx ts-node index.ts"
+    "dev": "npx ts-node index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "playwright": "^1.42.1",
-    "playwright-extra": "^4.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2"
+    "playwright": "^1.42.1"
   },
   "devDependencies": {
     "@types/node": "^20.12.2",

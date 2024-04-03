@@ -1,4 +1,6 @@
 .env
 node_modules/
-logs/debug.log
+logs/*
 data/ig.insync*
+!.gitkeep
+dist/

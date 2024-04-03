@@ -1,8 +1,6 @@
-import { chromium } from 'playwright-extra'
-import StealthPlugin from 'puppeteer-extra-plugin-stealth'
+import { chromium } from 'playwright'
 import Config from './config'
 import { BrowserContext, Page } from 'playwright-core'
-chromium.use(StealthPlugin())
 
 export const createNewContext = async (userDir: string) => {
   const context = await chromium.launchPersistentContext(userDir, {

@@ -31,10 +31,10 @@ const COLOR = {
 
 class Logger {
   log: Console
-  logFile: import('fs').WriteStream
+  logFile: fs.WriteStream
 
   constructor() {
-    const logPath = path.join(__dirname, '../logs/debug.log')
+    const logPath = path.join(__dirname, '../../logs/debug.log')
 
     this.log = console
     this.logFile = fs.createWriteStream(logPath, {
